@@ -1,0 +1,21 @@
+{
+  "name": "weathernodeapp",
+  "version": "1.0.0",
+  "description": "Simple node weather application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "app",
+    "weather",
+    "api"
+  ],
+  "author": "Diego Batista",
+  "license": "MIT",
+  "dependencies": {
+    "request": "^2.81.0",
+    "yargs": "^8.0.2"
+  }
+}
